@@ -1,0 +1,4 @@
+Name: John Doe
+Phone: 0741230987
+Address: 123, Main Street
+Product: Laptop, Price: 100.00, TVA: 20.00%, Quantity: 2

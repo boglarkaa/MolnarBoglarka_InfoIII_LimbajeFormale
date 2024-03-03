@@ -1,4 +1,5 @@
-Name john doe
+First name: T
+Last name: Mosby
 Phone: 074123098
-Address: 123, Main
-Product: Laptop, Price: 100.00, TVA: 20.00%, Quantity: ?
+Address: 123, Sesame
+Product: Netflix Subscription, Price: 43.00, TVA: 20.00%, Quantity: ?

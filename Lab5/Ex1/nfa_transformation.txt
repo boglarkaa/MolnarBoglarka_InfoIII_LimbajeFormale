@@ -1,0 +1,10 @@
+d(q0, a) = {q1, q2}
+d(q0, b) = null
+d(q1, a) = {q1, q2}
+d(q1, b) = {q2}
+d(q2, a) = {q3, q4}
+d(q2, b) = {q2, q3, q4}
+d(q3, a) = {q3, q4}
+d(q3, b) = {q4, q1}
+d(q4, a) = null
+d(q4, b) = null
